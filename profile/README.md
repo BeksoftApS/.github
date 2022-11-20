@@ -1,5 +1,5 @@
 ## Beksoft ApS
-#Danish Software Development Company
+Danish Software Development Company
 
 <p>We make professional webbased it systems for computers, mobile and cloud</p>
 <p>Our main technologies are based on Go, JavaScript+(HTML/CSS)</p>
