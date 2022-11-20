@@ -1,5 +1,9 @@
-## Coming soon 👋
+## Beksoft ApS
+#Danish Software Development Company
 
+<p>We make professional webbased it systems for computers, mobile and cloud</p>
+<p>Our main technologies are based on Go, JavaScript+(HTML/CSS)</p>
+<p>Read more about us on https://beksoft.dk and feel free to follow us</p>
 <!--
 
 **Here are some ideas to get you started:**
