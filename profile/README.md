@@ -4,6 +4,8 @@ Danish Software Development Company
 <p>We make professional webbased it systems for computers, mobile and cloud</p>
 <p>Our main technologies are based on Go, JavaScript+(HTML/CSS)</p>
 <p>Read more about us on https://beksoft.dk and feel free to follow us</p>
+
+<p>Please note: Most of our repositories are private, send an email to lars@beksoft.dk to become a contributor</p>
 <!--
 
 **Here are some ideas to get you started:**
